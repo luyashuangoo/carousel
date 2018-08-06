@@ -1,0 +1,12 @@
+.images {
+    display:flex;
+    aligh-items:flex-start;
+    transition: transform 0.5s;
+ }
+ .windows{
+     width: 300px;
+     overflow: hidden;
+ }
+.red{
+    color:red;
+ }
