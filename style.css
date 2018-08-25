@@ -3,7 +3,7 @@
     aligh-items:flex-start;
     transition: transform 0.5s;
  }
- .windows{
+ .win{
      width: 300px;
      overflow: hidden;
  }
